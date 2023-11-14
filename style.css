@@ -1,9 +1,32 @@
 @font-face {
-    font-family: magestic;
-    src: url('Magestic.ttf');
+    font-family: comicsans;
+    src: url('comicsans.ttf');
 }
+
 *{
     background-color: #383632;
-    font-family: Magestic;
-    color: #C3C3E6;
+}
+.text-box{
+    text-align: center;
+}
+.mainpagebutton{
+    background-color: darkslategray;
+    font-family: comicsans;
+    border-radius: 15px;
+    color: darksalmon;
+    font-size: 40px;
+}
+.speedrunbutton{
+    background-color: darkslategray;
+    font-family: comicsans;
+    border-radius: 15px;
+    color: darksalmon;
+    font-size: 35px;
+}
+.topbuttons{
+    background-color: darkslategray;
+    font-family: comicsans;
+    border-radius: 15px;
+    color: darksalmon;
+    font-size: 20px;
 }
