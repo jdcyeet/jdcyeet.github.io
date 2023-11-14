@@ -1,0 +1,9 @@
+@font-face {
+    font-family: magestic;
+    src: url('Magestic.ttf');
+}
+*{
+    background-color: #383632;
+    font-family: Magestic;
+    color: #C3C3E6;
+}
