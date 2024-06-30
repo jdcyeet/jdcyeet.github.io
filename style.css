@@ -1,0 +1,31 @@
+@font-face{
+    font-family: cookies;
+    src: url(cookies.ttf);
+    font-family: sushi;
+    src: url(sushi.ttf);
+    font-family: pumpkin;
+    src: url(PumpkinIsland.otf);
+    font-family: comicsans;
+    src: url(comicsans.ttf);
+}
+*{
+    background-color: #303030;
+    color: white;
+    font-family: comicsans;
+}
+.text-box{
+    text-align: center;
+}
+.button1{
+    background-color: #04AA6D;
+    border: none;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 32px;
+    margin: 4px 2px;
+    border-radius: 8px;
+}
